@@ -391,7 +391,8 @@ img {
     position: relative;
     z-index: 1;
     -webkit-transition-duration: 200ms;
-    transition-duration: 200ms; }
+    transition-duration: 200ms; 
+  }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
       .header-area .alazea-main-menu .classy-navbar .classy-menu {
         background-color: #111111; } }
@@ -2638,6 +2639,10 @@ img {
     margin-bottom: 0; }
   .portfolio-details-meta:last-child {
     margin-bottom: 0; }
+
+.logo {
+  color: #70c745;
+}
 
 /* ======= The End ======= */
 
